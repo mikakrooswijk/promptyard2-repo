@@ -1,0 +1,8 @@
+{
+  "name": "code-review",
+  "author": "test",
+  "skills": ["skills/code-review/SKILL.md"],
+  "instructions": ["instructions/code-review.instructions.md"],
+  "prompts": ["prompts/code-review.prompt.md"],
+  "agents": ["agents/code-reviewer.md"]
+}
